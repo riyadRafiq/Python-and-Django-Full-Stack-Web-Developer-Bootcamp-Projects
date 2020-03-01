@@ -1,0 +1,34 @@
+h1{
+  font-family: 'Bangers', cursive;
+  text-align: center;
+}
+
+.art{
+  margin: auto;
+}
+
+td{
+  height: 300px;
+  width: 150px;
+  border: 6px solid white;
+}
+
+#one{
+  background-color: #2B2D42;
+}
+
+#two{
+  background-color: #8D99AE;
+}
+
+#three{
+  background-color: #EDF2F4;
+}
+
+#four{
+  background-color: #EF233C;
+}
+
+#five{
+  background-color: #D90429;
+}
